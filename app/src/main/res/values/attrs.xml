@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="cmbt">
+        <attr name="rm_leftText" format="string" />
+        <attr name="rm_rightText" format="string" />
+        <attr name="rm_textColor" format="string" />
+        <attr name="rm_bgColor" format="string" />
+        <attr name="rm_textSize" format="integer" />
+        <attr name="rm_dampMultiple" format="integer" />
+    </declare-styleable>
+
+
+</resources>

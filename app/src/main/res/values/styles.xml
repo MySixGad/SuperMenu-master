@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="cmbt_reversemenu_font_style">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
 </resources>

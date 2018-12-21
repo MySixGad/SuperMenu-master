@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:cmbt="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="net.cmbt.supermenu.MainActivity">
+
+
+    <net.cmbt.supermenu.widget.ReverseMenu
+        android:id="@+id/float_circle"
+        android:layout_width="103dp"
+        android:layout_height="40dp"
+        cmbt:rm_bgColor="#FE671E"
+        cmbt:rm_dampMultiple="3"
+        cmbt:rm_leftText="圈子"
+        cmbt:rm_rightText="发现"
+        cmbt:rm_textColor="#ffffff"
+        cmbt:rm_textSize="15" />
+</LinearLayout>
